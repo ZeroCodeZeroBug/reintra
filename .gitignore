@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.pyzwzw
+*.pyzwzwz
+*.pyzwzwzw
+
+trading_ai.db-shm
+trading_ai.db-wal
+trading_ai.db
